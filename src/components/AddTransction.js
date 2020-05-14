@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 
-export default function AddTransction() {
+export const AddTransction=()=> {
     const [text,setText] = useState('')
     const [amount,setAmount] = useState(0)
 

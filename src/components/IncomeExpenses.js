@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IncomeExpenses() {
+export const IncomeExpenses=()=> {
     return (
         <div>
             <div className="inc-exp-container">
